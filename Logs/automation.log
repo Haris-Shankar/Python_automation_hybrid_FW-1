@@ -1,0 +1,166 @@
+2024-12-25 15:51:49,307 - root - INFO - *** starting the first test case ****
+2024-12-25 15:51:49,519 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:04:56,692 - root - INFO - *** starting the first test case ****
+2024-12-25 16:04:59,825 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:05:58,221 - root - INFO - *** starting the first test case ****
+2024-12-25 16:05:58,462 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:06:08,954 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:06:57,789 - root - INFO - *** starting the first test case ****
+2024-12-25 16:06:58,043 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:07:10,422 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:07:15,566 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:08:39,589 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:08:45,352 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:08:46,523 - root - INFO - *** starting the first test case ****
+2024-12-25 16:08:46,733 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:10:16,158 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:10:17,797 - root - INFO - *** starting the first test case ****
+2024-12-25 16:10:21,221 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:22:25,894 - root - INFO - *** starting the first test case ****
+2024-12-25 16:22:26,138 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:22:29,932 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:22:34,907 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:31:31,027 - root - INFO - *** starting the first test case ****
+2024-12-25 16:31:31,240 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:31:31,420 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:31:36,598 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:35:32,302 - root - INFO - *** starting the first test case ****
+2024-12-25 16:35:32,558 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:35:33,554 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:35:38,475 - root - INFO - *** Ending the second test case ****
+2024-12-25 16:39:06,979 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:39:11,855 - root - INFO - *** Ending the second test case ****
+2024-12-25 16:39:12,017 - root - INFO - *** starting the first test case ****
+2024-12-25 16:39:12,205 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:42:34,852 - root - INFO - *** starting the Second test case ****
+2024-12-25 16:42:35,695 - root - INFO - *** starting the first test case ****
+2024-12-25 16:42:35,922 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:42:39,993 - root - INFO - *** Ending the second test case ****
+2024-12-25 16:48:44,952 - root - ERROR - _metadata not found
+2024-12-25 16:48:46,064 - root - ERROR - _metadata not found
+2024-12-25 16:48:46,193 - root - ERROR - _metadata not found
+2024-12-25 16:49:00,671 - root - INFO - *** starting the first test case ****
+2024-12-25 16:49:00,671 - root - INFO - *** starting the first test case ****
+2024-12-25 16:49:00,889 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:49:00,889 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:50:57,115 - root - ERROR - _metadata not found
+2024-12-25 16:51:06,089 - root - INFO - *** starting the first test case ****
+2024-12-25 16:51:06,089 - root - INFO - *** starting the first test case ****
+2024-12-25 16:51:06,334 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:51:06,334 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:51:28,095 - root - ERROR - _metadata not found
+2024-12-25 16:51:42,100 - root - INFO - *** starting the first test case ****
+2024-12-25 16:51:42,100 - root - INFO - *** starting the first test case ****
+2024-12-25 16:51:42,356 - root - INFO - *** Ending the first test case ****
+2024-12-25 16:51:42,356 - root - INFO - *** Ending the first test case ****
+2024-12-25 17:53:14,425 - root - ERROR - _metadata not found
+2024-12-25 17:53:20,646 - root - INFO - *** starting the first test case ****
+2024-12-25 17:53:20,646 - root - INFO - *** starting the first test case ****
+2024-12-25 17:53:20,843 - root - INFO - *** Ending the first test case ****
+2024-12-25 17:53:20,843 - root - INFO - *** Ending the first test case ****
+2024-12-25 17:54:22,274 - root - ERROR - _metadata not found
+2024-12-25 17:54:56,051 - root - ERROR - _metadata not found
+2024-12-25 17:55:22,057 - root - INFO - *** starting the first test case ****
+2024-12-25 17:55:22,057 - root - INFO - *** starting the first test case ****
+2024-12-25 17:55:22,057 - root - INFO - *** starting the first test case ****
+2024-12-25 17:55:26,572 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 17:55:26,572 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 17:55:26,572 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 17:57:46,193 - root - ERROR - _metadata not found
+2024-12-25 17:57:47,306 - root - ERROR - _metadata not found
+2024-12-25 17:57:47,442 - root - ERROR - _metadata not found
+2024-12-25 17:58:01,073 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 17:58:01,073 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:00:09,890 - root - ERROR - _metadata not found
+2024-12-25 18:00:24,289 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:00:24,289 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:02:20,900 - root - ERROR - _metadata not found
+2024-12-25 18:02:21,906 - root - ERROR - _metadata not found
+2024-12-25 18:02:22,023 - root - ERROR - _metadata not found
+2024-12-25 18:02:28,493 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:02:28,493 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:06:12,147 - root - ERROR - _metadata not found
+2024-12-25 18:06:13,186 - root - ERROR - _metadata not found
+2024-12-25 18:06:13,290 - root - ERROR - _metadata not found
+2024-12-25 18:06:26,519 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:06:26,519 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:10:52,369 - root - ERROR - _metadata not found
+2024-12-25 18:11:09,991 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:11:09,991 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:15:28,205 - root - ERROR - _metadata not found
+2024-12-25 18:15:40,790 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:15:40,790 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:21:00,034 - root - ERROR - _metadata not found
+2024-12-25 18:21:13,497 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:21:13,497 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:22:05,203 - root - ERROR - _metadata not found
+2024-12-25 18:23:59,748 - root - ERROR - _metadata not found
+2024-12-25 18:24:13,833 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:24:13,833 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:24:18,874 - root - INFO - 2 iteration
+2024-12-25 18:24:18,874 - root - INFO - 2 iteration
+2024-12-25 18:57:56,870 - root - ERROR - _metadata not found
+2024-12-25 18:58:03,378 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:58:03,378 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:59:14,259 - root - ERROR - _metadata not found
+2024-12-25 18:59:19,858 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 18:59:19,858 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:01:01,487 - root - ERROR - _metadata not found
+2024-12-25 19:01:08,967 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:01:08,967 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:01:12,832 - root - INFO - 2 iteration
+2024-12-25 19:01:12,832 - root - INFO - 2 iteration
+2024-12-25 19:01:16,266 - root - INFO - 3 iteration
+2024-12-25 19:01:16,266 - root - INFO - 3 iteration
+2024-12-25 19:01:17,974 - root - INFO - 4 iteration
+2024-12-25 19:01:17,974 - root - INFO - 4 iteration
+2024-12-25 19:05:14,602 - root - ERROR - _metadata not found
+2024-12-25 19:05:19,602 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:05:19,602 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:05:26,320 - root - INFO - 2 iteration
+2024-12-25 19:05:26,320 - root - INFO - 2 iteration
+2024-12-25 19:07:56,143 - root - ERROR - _metadata not found
+2024-12-25 19:08:02,890 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:08:02,890 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:08:09,958 - root - INFO - 2 iteration
+2024-12-25 19:08:09,958 - root - INFO - 2 iteration
+2024-12-25 19:11:53,824 - root - ERROR - _metadata not found
+2024-12-25 19:11:58,884 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:11:58,884 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:12:05,501 - root - INFO - 2 iteration
+2024-12-25 19:12:05,501 - root - INFO - 2 iteration
+2024-12-25 19:15:59,893 - root - ERROR - _metadata not found
+2024-12-25 19:16:05,683 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:16:05,683 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:16:12,321 - root - INFO - 2 iteration
+2024-12-25 19:16:12,321 - root - INFO - 2 iteration
+2024-12-25 19:20:30,895 - root - ERROR - _metadata not found
+2024-12-25 19:20:37,256 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:20:37,256 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:20:44,084 - root - INFO - 2 iteration
+2024-12-25 19:20:44,084 - root - INFO - 2 iteration
+2024-12-25 19:22:32,478 - root - ERROR - _metadata not found
+2024-12-25 19:22:39,176 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:22:39,176 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-25 19:22:45,835 - root - INFO - 2 iteration
+2024-12-25 19:22:45,835 - root - INFO - 2 iteration
+2024-12-25 19:22:52,275 - root - INFO - 3 iteration
+2024-12-25 19:22:52,275 - root - INFO - 3 iteration
+2024-12-25 19:22:57,457 - root - INFO - 4 iteration
+2024-12-25 19:22:57,457 - root - INFO - 4 iteration
+2024-12-25 19:23:03,098 - root - INFO - 5 iteration
+2024-12-25 19:23:03,098 - root - INFO - 5 iteration
+2024-12-29 14:40:59,124 - root - ERROR - _metadata not found
+2024-12-29 14:42:37,072 - root - ERROR - _metadata not found
+2024-12-29 14:43:05,282 - root - ERROR - _metadata not found
+2024-12-29 18:47:59,706 - root - ERROR - _metadata not found
+2024-12-29 18:48:07,878 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-29 18:48:07,878 - root - INFO - *** starting the 1st ddt test case ****
+2024-12-29 18:48:16,023 - root - INFO - 2 iteration
+2024-12-29 18:48:16,023 - root - INFO - 2 iteration
+2024-12-29 18:48:27,618 - root - INFO - 3 iteration
+2024-12-29 18:48:27,618 - root - INFO - 3 iteration
+2024-12-29 18:48:33,373 - root - INFO - 4 iteration
+2024-12-29 18:48:33,373 - root - INFO - 4 iteration
+2024-12-29 18:48:39,173 - root - INFO - 5 iteration
+2024-12-29 18:48:39,173 - root - INFO - 5 iteration
