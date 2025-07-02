@@ -1,6 +1,7 @@
 import pytest
 from selenium import webdriver
 from utilities.logger import LogGen
+import datetime
 
 
 
@@ -30,6 +31,10 @@ def browser(request):
 
 def pytest_configure(config):
     # Adding custom environment details
+    html_file_name = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    html_path = f".//Reports/Reports_{html_file_name}.html"
+    config.option.htmlpath = html_path
+
     logger = LogGen.loggen()
     if hasattr(config, "_metadata"):
         logger.info("Accessing _metadata and adding environment details.")
@@ -39,6 +44,7 @@ def pytest_configure(config):
         config._metadata['Environment'] = 'QA'
     else:
         logger.error("_metadata not found")
+
 
 def pytest_metadata(metadata):
     # Remove default metadata
